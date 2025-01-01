@@ -1,0 +1,20 @@
+th{
+    background-color: #61a261;
+    color: white;
+    text-align: center;
+}
+table {
+    width: 100%;
+    height: 200px;
+}
+.class {
+    background-color: gainsboro;
+    text-align: center;
+    color: #61a261;;
+}
+td {
+    text-align: center;
+}
+.colspan{
+    background-color: #61a261;;
+}
